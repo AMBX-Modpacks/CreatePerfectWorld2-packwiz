@@ -1,0 +1,13 @@
+name = "Skinned Carts"
+filename = "SkinnedCarts-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52da8f987167de838bffef039274e0dba1e93591"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4612670
+project-id = 351109

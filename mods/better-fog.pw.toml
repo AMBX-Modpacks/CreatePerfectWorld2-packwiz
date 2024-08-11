@@ -1,0 +1,13 @@
+name = "Better Fog"
+filename = "BetterFog-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc6b62a9ced37870573d7f876483077ba65687d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4676065
+project-id = 836630

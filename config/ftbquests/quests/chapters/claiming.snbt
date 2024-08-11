@@ -1,0 +1,117 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "claiming"
+	group: "7BB558A2663C8BAF"
+	icon: "createdeco:decal_warning"
+	id: "2A52A9087FDC1334"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["You will &4not&r be able to claim an area until you have created a party"]
+			icon: "createdeco:decal_warning"
+			id: "6843733584C86FBE"
+			size: 2.0d
+			subtitle: "/openpac-parties create"
+			tasks: [{
+				id: "43BCA9F1D7E3A5D8"
+				title: "Creating a party"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6843733584C86FBE"]
+			description: [
+				"To claim and area you will need to open the &6Xaeros world map (Fullscreen one)&r"
+				""
+				"Then you can right click and highlight an area to claim whats highlighted"
+				""
+				"You can only claim in a 5x5 chunk area with the player in the middle, so to claim further afar from you, you will need to move around to claim them"
+			]
+			icon: "supplementaries:safe"
+			id: "2F381595DFCBD741"
+			size: 2.0d
+			subtitle: "Claim an area to protect your stuff"
+			tasks: [{
+				id: "794FF48995CA8C26"
+				title: "How to claim"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6843733584C86FBE"]
+			description: ["This is the menu that will allow you to customise what people are able to do within your party's claim"]
+			icon: "createdeco:decal_ice"
+			id: "3436754A9BA6BB78"
+			size: 2.0d
+			subtitle: "It's &6'&r by default"
+			tasks: [{
+				id: "12BF453D77794701"
+				title: "Opening the claim menu"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"2F381595DFCBD741"
+				"3436754A9BA6BB78"
+			]
+			description: [
+				"To be able to decide &ewhat other players can interact&r with within your claim there are some options you can change to match your preferance"
+				""
+				"- Open &6the claim menu&r"
+				""
+				"- Click &6player config menu&r"
+				""
+				"- Click &6my player config&r"
+				""
+				"- The options are on pages 7-9 of all the different parts that you can choose what people are able to interact with in chunks that you have claimed"
+			]
+			icon: "minecraft:oak_door"
+			id: "586EAE6E8065351A"
+			size: 2.0d
+			subtitle: "What people can interact with"
+			tasks: [{
+				id: "4AF284B05F818470"
+				title: "Interactions"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"2F381595DFCBD741"
+				"3436754A9BA6BB78"
+			]
+			description: [
+				"- Open claim menu"
+				""
+				"- Click player config menu"
+				""
+				"- Click my player config"
+				""
+				"- Enter a &6&nHex Code&r&l&r in the claimed area color"
+			]
+			icon: "createdeco:decal_fire_diamond"
+			id: "27C6928DF195AC5D"
+			size: 2.0d
+			subtitle: "Change your claims colour"
+			tasks: [{
+				id: "33C06364F90E2466"
+				title: "Claim Colour"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+	]
+	title: "Claiming"
+}

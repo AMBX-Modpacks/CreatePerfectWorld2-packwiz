@@ -1,0 +1,13 @@
+name = "Bad Mobs"
+filename = "BadMobs-1.20.1-19.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79f7c336a115a400d0c4c8a83f7fd75cb1f8d2ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4866066
+project-id = 233258

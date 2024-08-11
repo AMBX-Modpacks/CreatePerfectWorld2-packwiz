@@ -1,0 +1,18 @@
+
+["Mineify Client Config"]
+	#When false, you won't hear any sounds played by this mod.
+	enabled = true
+
+	["Mineify Client Config".defaults]
+		#Preselected visibility when uploading a sound.
+		#Allowed Values: PRIVATE, SHARED, PUBLIC
+		sound_visibility = "PRIVATE"
+		#Preselected channels when uploading a sound.
+		#Allowed Values: MONO, STEREO
+		sound_channels = "MONO"
+		#Preselected quality when uploading a sound.
+		#Range: 0 ~ 10
+		sound_quality = 5
+		#Preselected distance in the sound board. Limited to the server's max distance.
+		sound_board_distance = 10
+

@@ -1,0 +1,39 @@
+
+[mineify_common_config]
+	#Defines how the data is streamed to clients. ALL_AT_ONCE means that all data is split up into small packets and sent to the client. ON_REQUEST means that a buffer is created on the client side and the client must request more data. The last method might improve performance and RAM usage, but might fail on low-bandwidth devices.
+	#Allowed Values: ALL_AT_ONCE, ON_REQUEST
+	streaming_mode = "ON_REQUEST"
+
+	[mineify_common_config.files]
+		#Maximum size per file in bytes. < 0: unlimited (Default: 204800000 [200 MB])
+		max_size = 204800000
+		#Maximum count of files a user can upload. < 0: unlimited (Default: -1)
+		max_count = -1
+		#Maximum storage size in bytes per user for all uploads. < 0: unlimited (Default: -1)
+		max_storage = -1
+		#Max filename length.
+		#Range: 10 ~ 100
+		max_filename_length = 32
+		#Maximum duration of sounds in seconds. < 0: unlimited
+		max_duration = -1
+
+	[mineify_common_config.range]
+		#Max possible radius.
+		#Range: 1 ~ 1024
+		max_radius = 256
+		#Max possible box size.
+		#Range: 1 ~ 1024
+		max_box_size = 256
+		#Max possible attenuation distance in blocks.
+		#Range: > 1
+		attenuation_distance = 1024
+
+	[mineify_common_config.sound_board]
+		#Max duration (in seconds) of audio files playable via Sound Boards. <= 0: Unlimited (Default: 10)
+		max_sound_board_duration = 15
+		#Set a cooldown when using the Sound Board. < 0: Auto; = 0: Disabled; > 0: Constant value (Default: -1)
+		sound_board_cooldown = -1
+		#The maximum distance players can select for their sound board. > 0; default: 16
+		#Range: > 1
+		sound_board_max_distance = 16
+
