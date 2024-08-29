@@ -1,0 +1,8 @@
+name = "Embeddium/Rubidium Extras"
+filename = "embeddiumextras-1.20.1-v2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://drive.google.com/uc?export=download&id=1LVFTi4qKRCLsqWoTVUSA6v1leoKHGu6D"
+hash-format = "sha256"
+hash = "99613bfc7c1f853af6709c9adbd10e0a6f780d0169ddd840fb63dc20ce8380c1"

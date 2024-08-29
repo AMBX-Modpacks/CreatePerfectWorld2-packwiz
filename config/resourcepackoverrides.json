@@ -1,0 +1,24 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/VanillaTweaks_r786846_MC1.20.x.zip"
+  ],
+  "pack_overrides": {
+    "create-textures": [
+      "file/Create Computers 1.2.1 - 1.20.1.zip",
+      "file/RefinedStorage2.zip",
+      "file/[Moonsu] Better GUI for Sophisticated Backpacks 1.0.zip",
+      "file/Lopy-Create-Sophisticated-Backpacks.zip",
+      "file/CreatedDrawers_1.20+.zip",
+      "file/LootrChestRetexture_v1.1_1.19.zip",
+      "file/Comforts Modernized.zip"
+    ],
+    "$$create-textures": {
+      "required": true,
+      "force_compatible": true
+    },
+    "file/VanillaTweaks_r786846_MC1.20.x.zip": {
+      "force_compatible": true
+    }
+  }
+}

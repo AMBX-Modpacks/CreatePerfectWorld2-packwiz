@@ -1,0 +1,13 @@
+name = "Comforts Modernized"
+filename = "Comforts Modernized.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "48f25cfeb49ab5c2b07d7054db8dee8c9419ef06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5201712
+project-id = 990594

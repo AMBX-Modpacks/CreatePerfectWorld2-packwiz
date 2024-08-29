@@ -1,13 +1,13 @@
 name = "GJEB (GammaJustExtremeBright)"
-filename = "gjeb-forge-1.20.1-1.3.0.32.jar"
+filename = "gjeb-forge-1.20.1-1.3.0.34.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5ffd42ffedefc53020f8267de6ee8dbb1f0d19f5"
+hash = "0a51c11397d92890c1a2ca56610e773276924cb9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4619955
+file-id = 5550887
 project-id = 347604

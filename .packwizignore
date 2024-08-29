@@ -3,3 +3,14 @@
 
 # Exclude README
 /README.md
+
+# Exclude vscode
+/.vscode
+
+# Exclude disabled files
+*.bak
+*.disabled
+
+# Exclude local script files
+*.bat
+*.code-workspace
