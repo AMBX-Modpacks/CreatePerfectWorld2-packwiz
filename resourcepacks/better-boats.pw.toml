@@ -1,0 +1,13 @@
+name = "Better Boats"
+filename = "§9Better Boats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yMI9tliS/versions/EwaOAciq/%C2%A79Better%20Boats.zip"
+hash-format = "sha1"
+hash = "5ee19893d6c5d6eec8d3bccce7121a4d970f6029"
+
+[update]
+[update.modrinth]
+mod-id = "yMI9tliS"
+version = "EwaOAciq"

@@ -1,0 +1,13 @@
+name = "Reforged (formerly Tiered)"
+filename = "Tiered-1.20.1-6.0.7-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQL9oTmq/versions/8sHKk0Dj/Tiered-1.20.1-6.0.7-Forge.jar"
+hash-format = "sha1"
+hash = "9fd125f16a23e666a5da84612b5925fde8d55298"
+
+[update]
+[update.modrinth]
+mod-id = "fQL9oTmq"
+version = "8sHKk0Dj"

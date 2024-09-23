@@ -1,0 +1,14 @@
+key_key.socialInteractions:key.keyboard.unknown
+key_key.chat:key.keyboard.enter
+key_key.hide_icons:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.t
+key_key.voice_chat:key.keyboard.f9
+key_key.voice_chat_group:key.keyboard.f10
+key_key.mute_microphone:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.curios.open.desc:key.keyboard.unknown
+key_key.crawlondemand.toggle_crawl:key.keyboard.x
+key_key.crawlondemand.crawl:key.keyboard.unknown
+key_Place item:key.keyboard.period

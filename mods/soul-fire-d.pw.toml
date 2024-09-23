@@ -1,0 +1,13 @@
+name = "Soul Fire'd"
+filename = "soul-fire-d-forge-1.20.1-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/ey1yeo38/soul-fire-d-forge-1.20.1-4.0.3.jar"
+hash-format = "sha1"
+hash = "8235270992fe30b3ee4007a2c11ad3b398cfd483"
+
+[update]
+[update.modrinth]
+mod-id = "d6MhxwRo"
+version = "ey1yeo38"

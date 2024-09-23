@@ -1,0 +1,13 @@
+name = "F.M.R.P"
+filename = "freshly-modded-1-5-6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u4nhiAdP/versions/yOZSTRfy/freshly-modded-1-5-6.zip"
+hash-format = "sha1"
+hash = "ed8e7507d6cc1fc87d1a0d1d3450edf880d9d5af"
+
+[update]
+[update.modrinth]
+mod-id = "u4nhiAdP"
+version = "yOZSTRfy"

@@ -1,0 +1,8 @@
+name = "Soul Fire by TitaniumGrunt7"
+filename = "Soul Fire by TitaniumGrunt7.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/akp2ooy6mq1idkmjeuegn/Soul-Fire-by-TitaniumGrunt7.zip?rlkey=7r8t7sx3lo9pzmfegjil1mpy6&st=k6v4hwdl&dl=1"
+hash-format = "sha256"
+hash = "A9DAC95C288CC840195240F1433DFD6FBBEB8A0A89D299C0C84227A271FDD48D"

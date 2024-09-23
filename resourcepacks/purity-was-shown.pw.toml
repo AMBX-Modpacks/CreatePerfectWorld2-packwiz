@@ -1,0 +1,13 @@
+name = "Purity was Shown"
+filename = "Purity was Shown 1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "02ef28a0166b86447e8b3b12501e6e4e72785d73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5571116
+project-id = 1072269

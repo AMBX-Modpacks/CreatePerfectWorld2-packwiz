@@ -1,0 +1,13 @@
+name = "xali's Potions + Addon"
+filename = "xali's Potions Addon v1.0.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/6b2dkzpd9htq48urkjulq/xali-s-Potions-Addon-v1.0.zip?rlkey=vo5369rhhaga74wq8olxehclq&st=2cd73yi1&dl=1"
+hash-format = "sha256"
+hash = "E78470795BEF43E0E1379BED846D54E0F9F1B099C1E2F4CCC03D0A3D1A6603A3"
+
+[update]
+[update.modrinth]
+mod-id = "yFn9hTiq"
+version = "cCOinnlk"

@@ -1,0 +1,13 @@
+name = "Horse Expert"
+filename = "HorseExpert-v8.1.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/24CSPS1E/versions/HlwDHWL1/HorseExpert-v8.1.1-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "84585fe2422165be38aa54cdedc1d39264a693a5"
+
+[update]
+[update.modrinth]
+mod-id = "24CSPS1E"
+version = "HlwDHWL1"

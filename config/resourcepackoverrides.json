@@ -1,24 +1,69 @@
 {
   "schema_version": "2",
   "default_packs": [
-    "file/VanillaTweaks_r786846_MC1.20.x.zip"
+    "file/Better Carpets 1.19-1.19.2.zip",
+    "file/3D-fishing-hook-bobber-v2.1-flat-with-line.zip",
+    "file/\u00A79Better Boats.zip",
+    "file/VanillaTweaks_r776020_MC1.20.x.zip",
+    "file/xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip",
+    "file/Stay_True_1.21.zip",
+    "file/Stay True Compats v7 [1.19].zip",
+    "file/Simple Lower Grass Sides v1.0.0.zip",
+    "file/Simple Grass Flowers v1.8.1.zip",
+    "file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip",
+    "file/Soul Fire by TitaniumGrunt7.zip",
+    "file/xali's Potions Addon v1.0.zip",
+    "file/Bibliophilia 1.11.zip",
+    "file/xali's Enchanted Books Addon v3 1.20.1.zip",
+    "file/xali's enchanted books v0.13.0.zip",
+    "file/enchant icons 1.20 v1.3.zip",
+    "file/freshly-modded-1-5-6.zip",
+    "file/Eyeless Fresh Moves v3.0.1.zip",
+    "file/FreshAnimations_v1.9.2.zip",
+    "file/AL's Creepers Revamped 1.3.zip"
   ],
+  "default_overrides": {
+    "force_compatible": true
+  },
   "pack_overrides": {
-    "create-textures": [
+    "modded-textures": [
+      "file/Balanced-Music-0.2.2.zip",
       "file/Create Computers 1.2.1 - 1.20.1.zip",
       "file/RefinedStorage2.zip",
       "file/[Moonsu] Better GUI for Sophisticated Backpacks 1.0.zip",
       "file/Lopy-Create-Sophisticated-Backpacks.zip",
-      "file/CreatedDrawers_1.20+.zip",
-      "file/LootrChestRetexture_v1.1_1.19.zip",
-      "file/Comforts Modernized.zip"
+      "file/SmoothDrawers_1.20.1_v1.zip",
+      "file/Comforts Modernized.zip",
+      "file/Redstone Torch Backport Supporter \u00A7cv1.2\u00A7r.zip",
+      "file/Purity was Shown 1.0.zip",
+      "file/Authentic Shadows_1.20.zip",
+      "file/UnlitCampfireIcons_1.20.zip",
+      "create_central_kitchen:create_styled",
+      "create_questing",
+      "cullleaves:smartleaves",
+      "eatinganimations_compat",
+      "Moonlight Mods Dynamic Assets",
+      "tinyskeletons:main"
     ],
-    "$$create-textures": {
+    "$$modded-textures": {
+      "default_position": "TOP",
       "required": true,
-      "force_compatible": true
+      "force_compatible": true,
+      "hidden": true
     },
-    "file/VanillaTweaks_r786846_MC1.20.x.zip": {
-      "force_compatible": true
+    "hidden-textures": [
+      "black_icons",
+      "classic_icons",
+      "white_icons",
+      "create:legacy_copper",
+      "immersive_weathering:visual_waxed_iron_items",
+      "railways:green_signals",
+      "railways:legacy_palettes",
+      "railways:legacy_semaphore",
+      "supplementaries:darker_ropes"
+    ],
+    "$$hidden-textures": {
+      "hidden": true
     }
   }
 }

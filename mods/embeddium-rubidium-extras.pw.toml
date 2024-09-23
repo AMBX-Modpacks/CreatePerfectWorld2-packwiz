@@ -3,6 +3,6 @@ filename = "embeddiumextras-1.20.1-v2.0.0.jar"
 side = "client"
 
 [download]
-url = "https://drive.google.com/uc?export=download&id=1LVFTi4qKRCLsqWoTVUSA6v1leoKHGu6D"
+url = "https://www.dropbox.com/scl/fi/qjliqy3vftq5e9ctjronb/embeddiumextras-1.20.1-v2.0.0.jar?rlkey=qgntctqbx38np61wffickojb7&st=j6fte1cz&dl=1"
 hash-format = "sha256"
-hash = "99613bfc7c1f853af6709c9adbd10e0a6f780d0169ddd840fb63dc20ce8380c1"
+hash = "99613BFC7C1F853AF6709C9ADBD10E0A6F780D0169DDD840FB63DC20CE8380C1"

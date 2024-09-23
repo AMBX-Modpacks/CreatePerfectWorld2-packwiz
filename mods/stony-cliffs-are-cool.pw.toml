@@ -1,0 +1,13 @@
+name = "Stony Cliffs Are Cool"
+filename = "Stony Cliffs FML v1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/boFjx9eY/versions/GRs8dpYU/Stony%20Cliffs%20FML%20v1.1.2.jar"
+hash-format = "sha1"
+hash = "c6f358c6939486f56eefadaa591c00f783c7fd84"
+
+[update]
+[update.modrinth]
+mod-id = "boFjx9eY"
+version = "GRs8dpYU"

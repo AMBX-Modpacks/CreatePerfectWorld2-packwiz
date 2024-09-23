@@ -1,0 +1,22 @@
+{
+    "bountiful.decree.arborist.name": "Arboricultura",
+
+    "bountiful.decree.cook.name": "Cocina",
+
+        "bountiful.entry.fisherman_obj_fish_up_any_common": "Pesca Cualquier Cosa",
+        "bountiful.entry.fisherman_obj_fish_up_any_uncommon": "Pesca Cualquier Cosa",
+        "bountiful.entry.fisherman_obj_fish_up_any_rare": "Pesca Cualquier Cosa",
+        "bountiful.entry.fisherman_obj_fish_up_any_epic": "Pesca Cualquier Cosa",
+
+    "bountiful.decree.miner.name": "Minería",
+        "bountiful.entry.miner_obj_cobblemon_catch_ground": "Atrapar Pokemon Tipo Tierra",
+        "bountiful.entry.miner_obj_cobblemon_catch_rock": "Atrapar Pokemon Tipo Roca",
+        "bountiful.entry.miner_obj_cobblemon_catch_steel": "Atrapar Pokemon Tipo Acero",
+
+    "bountiful.decree.slayer.name": "Matando Monstruos",
+
+    "bountiful.decree.smith.name": "Herrería",
+    
+    "bountiful.decree.tailor.name": "Sastrería"
+
+}

@@ -1,0 +1,13 @@
+name = "Simple Lower Grass Sides"
+filename = "Simple Lower Grass Sides v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yANRnOx8/versions/wGH5mFgP/Simple%20Lower%20Grass%20Sides%20v1.0.0.zip"
+hash-format = "sha1"
+hash = "9e959f87452f100ed2ddfa07f9f86902c7670665"
+
+[update]
+[update.modrinth]
+mod-id = "yANRnOx8"
+version = "wGH5mFgP"
