@@ -1,0 +1,13 @@
+name = "Craft Takes Time"
+filename = "crafttakestime-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ce4670ff1cc9c9bb98c49556dbfea361d3defd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5778491
+project-id = 438726

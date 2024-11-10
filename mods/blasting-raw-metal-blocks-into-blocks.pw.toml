@@ -1,0 +1,13 @@
+name = "Blasting Raw Metal Blocks into Blocks"
+filename = "blastingraw-1.20.1-2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/URkDEaW4/versions/kUlkUCfJ/blastingraw-1.20.1-2-forge.jar"
+hash-format = "sha1"
+hash = "78e4c0093cc8349640e77553917c314ebfdeb912"
+
+[update]
+[update.modrinth]
+mod-id = "URkDEaW4"
+version = "kUlkUCfJ"

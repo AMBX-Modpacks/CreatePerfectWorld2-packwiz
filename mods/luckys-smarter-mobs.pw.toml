@@ -1,0 +1,13 @@
+name = "Lucky's Smarter Mobs"
+filename = "smarter_mobs-1.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wiZ8MoJ4/versions/fZqp5RHC/smarter_mobs-1.1.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "1248d55b2141b9fa6acb55d055ae1715a90cb04d"
+
+[update]
+[update.modrinth]
+mod-id = "wiZ8MoJ4"
+version = "fZqp5RHC"

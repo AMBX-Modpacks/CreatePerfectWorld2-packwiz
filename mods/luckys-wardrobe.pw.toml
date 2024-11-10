@@ -1,0 +1,13 @@
+name = "Lucky's Wardrobe"
+filename = "wardrobe-1.0.3.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MUOs5mGb/versions/8NvlSwbS/wardrobe-1.0.3.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "7985d6e0032af7ab65c6013dfcd03b5797af69ee"
+
+[update]
+[update.modrinth]
+mod-id = "MUOs5mGb"
+version = "8NvlSwbS"

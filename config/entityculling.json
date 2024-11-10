@@ -11,7 +11,8 @@
     "botania:falling_star"
   ],
   "entityWhitelist": [
-    "botania:mana_burst"
+    "botania:mana_burst",
+    "drg_flares:drg_flares"
   ],
   "tracingDistance": 128,
   "debugMode": false,
@@ -28,7 +29,8 @@
     "create:carriage_contraption",
     "mts:builder_existing",
     "mts:builder_rendering",
-    "mts:builder_seat"
+    "mts:builder_seat",
+    "drg_flares:drg_flares"
   ],
   "disableF3": false,
   "skipEntityCulling": false,

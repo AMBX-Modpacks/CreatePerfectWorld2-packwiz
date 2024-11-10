@@ -2,7 +2,7 @@
 last_line = true
 #Show black chat background behind tooltip lines for better visibility.
 #Allowed Values: NONE, RECTANGLE, ADAPTIVE
-background = "NONE"
+background = "ADAPTIVE"
 #Amount of ticks the held item tooltip will be displayed for. Set to 0 to always display the tooltip as long as an item is being held.
 #Range: > 0
 display_time = 40

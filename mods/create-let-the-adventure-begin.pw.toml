@@ -1,0 +1,13 @@
+name = "Create: Let The Adventure Begin"
+filename = "create_ltab_f-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/v7tOoanV/create_ltab_f-2.2.2.jar"
+hash-format = "sha1"
+hash = "d17f788e4c624307730b33558217714260a11ef0"
+
+[update]
+[update.modrinth]
+mod-id = "fUa6OtBG"
+version = "v7tOoanV"

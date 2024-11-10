@@ -1,0 +1,13 @@
+name = "Hot and Cold Bucket"
+filename = "Hot_and_Cold_Bucket_(1.20).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sa5cVofS/versions/WGN0QEU1/Hot_and_Cold_Bucket_%281.20%29.zip"
+hash-format = "sha1"
+hash = "104c0ebe806e958b83132eff13b5d1c7f6d72153"
+
+[update]
+[update.modrinth]
+mod-id = "sa5cVofS"
+version = "WGN0QEU1"

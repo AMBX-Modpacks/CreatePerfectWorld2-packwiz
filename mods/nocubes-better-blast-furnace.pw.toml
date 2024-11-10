@@ -1,0 +1,13 @@
+name = "NoCube's Better Blast Furnace"
+filename = "nocube's_better_blast_furnace_1.0.1_Forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aef8153be6396dee092122ddaccbd9d4d52d35fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4709857
+project-id = 792966
